@@ -1,0 +1,9 @@
+[package]
+name = "garden-path"
+version = "0.1.0"
+description = "Decision tree pruning via garden metaphor"
+repository = "https://github.com/SuperInstance/garden-path"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
